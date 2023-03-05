@@ -16,7 +16,7 @@ public class Test_7
             System.out.print(" " + n3);
             n1 = n2;
             n2 = n3;
-
+//elyasiv
         }
     }
 }
