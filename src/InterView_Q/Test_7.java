@@ -1,8 +1,5 @@
 package InterView_Q;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Test_7
 {
     public static void main(String[] args)
@@ -16,6 +13,7 @@ public class Test_7
             System.out.print(" " + n3);
             n1 = n2;
             n2 = n3;
+            //123
         }
     }
 }
